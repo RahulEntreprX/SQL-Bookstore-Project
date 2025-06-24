@@ -7,10 +7,10 @@ All table creation, data loading, and SQL queries were written manually by me as
 
 ## 📁 Folder Structure
 
-SQL-Bookstore-Project/
+SQL_Bookstore_Project/
 ├── schema.sql # Table creation queries
 ├── load_data.sql # COPY commands to load CSVs
-├── queries_basic.sql # Basic SELECT and WHERE queries
+├── queries_basic.sql # Basic SELECT and WHERE queries 
 ├── queries_advanced.sql # GROUP BY, JOIN, SUM, COUNT queries
 ├── data/
 │ ├── Books.csv
